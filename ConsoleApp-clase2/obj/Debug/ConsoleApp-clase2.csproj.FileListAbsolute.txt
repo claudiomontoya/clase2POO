@@ -1,0 +1,10 @@
+C:\Users\Claudio\Desktop\VirginioGomez\Clase2\Solution-Clase2\ConsoleApp-clase2\bin\Debug\ConsoleApp-clase2.exe.config
+C:\Users\Claudio\Desktop\VirginioGomez\Clase2\Solution-Clase2\ConsoleApp-clase2\bin\Debug\ConsoleApp-clase2.exe
+C:\Users\Claudio\Desktop\VirginioGomez\Clase2\Solution-Clase2\ConsoleApp-clase2\bin\Debug\ConsoleApp-clase2.pdb
+C:\Users\Claudio\Desktop\VirginioGomez\Clase2\Solution-Clase2\ConsoleApp-clase2\obj\Debug\ConsoleApp-clase2.csprojAssemblyReference.cache
+C:\Users\Claudio\Desktop\VirginioGomez\Clase2\Solution-Clase2\ConsoleApp-clase2\obj\Debug\ConsoleApp-clase2.csproj.CoreCompileInputs.cache
+C:\Users\Claudio\Desktop\VirginioGomez\Clase2\Solution-Clase2\ConsoleApp-clase2\obj\Debug\ConsoleApp-clase2.exe
+C:\Users\Claudio\Desktop\VirginioGomez\Clase2\Solution-Clase2\ConsoleApp-clase2\obj\Debug\ConsoleApp-clase2.pdb
+C:\Users\Claudio\Desktop\VirginioGomez\Clase2\Solution-Clase2\ConsoleApp-clase2\bin\Debug\ClassLibrary-clase2.dll
+C:\Users\Claudio\Desktop\VirginioGomez\Clase2\Solution-Clase2\ConsoleApp-clase2\bin\Debug\ClassLibrary-clase2.pdb
+C:\Users\Claudio\Desktop\VirginioGomez\Clase2\Solution-Clase2\ConsoleApp-clase2\obj\Debug\ConsoleApp-clase2.csproj.CopyComplete

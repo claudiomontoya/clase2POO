@@ -1,0 +1,9 @@
+C:\Users\Claudio\Desktop\VirginioGomez\Clase2\Solution-Clase2\WindowsFormsApp-clase2\bin\Debug\WindowsFormsApp-clase2.exe.config
+C:\Users\Claudio\Desktop\VirginioGomez\Clase2\Solution-Clase2\WindowsFormsApp-clase2\bin\Debug\WindowsFormsApp-clase2.exe
+C:\Users\Claudio\Desktop\VirginioGomez\Clase2\Solution-Clase2\WindowsFormsApp-clase2\bin\Debug\WindowsFormsApp-clase2.pdb
+C:\Users\Claudio\Desktop\VirginioGomez\Clase2\Solution-Clase2\WindowsFormsApp-clase2\obj\Debug\WindowsFormsApp-clase2.csprojAssemblyReference.cache
+C:\Users\Claudio\Desktop\VirginioGomez\Clase2\Solution-Clase2\WindowsFormsApp-clase2\obj\Debug\WindowsFormsApp_clase2.Properties.Resources.resources
+C:\Users\Claudio\Desktop\VirginioGomez\Clase2\Solution-Clase2\WindowsFormsApp-clase2\obj\Debug\WindowsFormsApp-clase2.csproj.GenerateResource.cache
+C:\Users\Claudio\Desktop\VirginioGomez\Clase2\Solution-Clase2\WindowsFormsApp-clase2\obj\Debug\WindowsFormsApp-clase2.csproj.CoreCompileInputs.cache
+C:\Users\Claudio\Desktop\VirginioGomez\Clase2\Solution-Clase2\WindowsFormsApp-clase2\obj\Debug\WindowsFormsApp-clase2.exe
+C:\Users\Claudio\Desktop\VirginioGomez\Clase2\Solution-Clase2\WindowsFormsApp-clase2\obj\Debug\WindowsFormsApp-clase2.pdb
