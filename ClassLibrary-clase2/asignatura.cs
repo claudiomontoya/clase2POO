@@ -6,7 +6,22 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary_clase2
 {
-    class asignatura
+    public class asignatura
     {
+        private int id;
+        private string nombre;
+
+        public string Nombre
+        {
+            get { return nombre; }
+            set { nombre = value; }
+        }
+
+        public int Id
+        {
+            get { return id; }
+            set { id = value; }
+        }
+
     }
 }

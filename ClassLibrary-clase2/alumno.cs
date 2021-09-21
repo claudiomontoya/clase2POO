@@ -9,15 +9,28 @@ namespace ClassLibrary_clase2
    public class alumno
     {
         //atributos
+
         private string nombre;
         private string rut;
-        private string direccion;
+
+        //private string direccion;
         private int matricula;
         private string celular;
         private string wsp;
 
-        public string Celular { get => celular; set => celular = value; }
+        public asignatura asignatura = new asignatura();//relacion de composicion
+        public domicilio domicilio = new domicilio();
+        public asignatura asignatura2; // relacion de agregacion     
+        public List<asignatura> listadoAsignatura = new List<asignatura>(); //composicion
+        public List<asignatura> listadoAsignatura2; // agregacion
 
+
+        public string Celular { get => celular; set => celular = value; }
+        public string Wsp { get => wsp; set => wsp = value; }
+
+        //public string Direccion { get => direccion; set => direccion = value; }
+        public int Matricula { get => matricula; set => matricula = value; }
+     
         //public string getCelular()
         //{
         //    return this.celular;
@@ -31,12 +44,27 @@ namespace ClassLibrary_clase2
 
         //constructores
 
-
-
         public alumno()
         {
-            this.matricula = 1;
+            this.Matricula = 1;
         }
+
+
+        public alumno(asignatura a)
+        {
+            asignatura2 = a;
+        }
+
+        public void crearAsignaturas()
+        {
+            listadoAsignatura2 = new List<asignatura>();
+        }
+
+        public void creaAsignaturasAsignacion(List<asignatura> listado)
+        {
+            listadoAsignatura2 = listado;
+        }
+
         public alumno(string nombre):this(nombre,"15-8",4566) {
 
         }
@@ -49,19 +77,19 @@ namespace ClassLibrary_clase2
         {
             this.nombre = nombre;
             this.rut = rut;
-            this.matricula = matricula;
+            this.Matricula = matricula;
         }
         public alumno(int matricula,string nombre, string rut)
         {
             this.nombre = nombre;
             this.rut = rut;
-            this.matricula = matricula;
+            this.Matricula = matricula;
         }
         //metodos
         // diferencia entre procedimientos y funciones
         public string datos()//funcion ya que devuleve datos
         {
-           return "Alumno:"+nombre+" "+rut+" "+matricula.ToString();
+           return "Alumno:"+nombre+" "+rut+" "+Matricula.ToString();
         }
         public void agregarWhatsapp()// metodo que realiza un proceso 
         {
@@ -88,12 +116,18 @@ namespace ClassLibrary_clase2
         }
         public int getMatricula()
         {
-            return this.matricula;
+            return this.Matricula;
         }
 
         public void setMatricula(int matricula)
         {
-            this.matricula = matricula;
+            this.Matricula = matricula;
+        }
+
+        public void InscribirRamos()// relacion de dependencia
+        {
+            tomaRamos tomaR = new tomaRamos();
+            tomaR.procesoInscripcion();
         }
     }
 }
