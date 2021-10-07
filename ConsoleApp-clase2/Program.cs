@@ -80,6 +80,6 @@ namespace ConsoleApp_clase2
             //tener la informacion del dueño del vehiculo en caso de que sea en consignacion
 
 
-        }
+        }    // vehiculos  --   sucursal --  persona > cliente - encargado   
     }
 }
